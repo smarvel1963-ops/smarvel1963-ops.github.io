@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.marvelcorp.dayhub",
+      "sha256_cert_fingerprints": [
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+      ]
+    }
+  }
+]
