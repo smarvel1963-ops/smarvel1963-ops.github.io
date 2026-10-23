@@ -20,7 +20,8 @@
       "namespace": "android_app",
       "package_name": "com.marvelcorp.moneyhub",
       "sha256_cert_fingerprints": [
-        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77",
+        "53:9A:35:57:E6:BF:30:2C:CD:A4:99:09:56:FE:1E:6E:71:E0:13:A2:DC:45:FC:7E:88:8D:AF:92:6C:3B:26:D4"
       ]
     }
   },
@@ -32,7 +33,8 @@
       "namespace": "android_app",
       "package_name": "com.marvelcorp.autohub",
       "sha256_cert_fingerprints": [
-        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77",
+        "46:00:40:CB:7E:C5:F3:FF:FF:40:08:63:A4:66:44:29:CD:53:DA:9A:E1:17:6E:B0:D6:D6:08:3F:3B:FD:63:A6"
       ]
     }
   },
@@ -44,7 +46,8 @@
       "namespace": "android_app",
       "package_name": "com.marvelcorp.homehub",
       "sha256_cert_fingerprints": [
-        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77",
+        "71:3E:4C:72:B8:B2:92:ED:C9:03:39:9C:18:54:1B:54:AE:C0:B6:88:2F:B8:66:60:50:47:A4:FD:AB:CF:16:18"
       ]
     }
   },
@@ -56,7 +59,8 @@
       "namespace": "android_app",
       "package_name": "com.marvelcorp.healthhub",
       "sha256_cert_fingerprints": [
-        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77",
+        "B5:A3:B3:8F:CF:F9:44:08:8D:8E:A0:75:30:B8:BF:54:56:BA:BE:AF:57:BB:CE:12:3D:8F:7F:19:58:B9:58:6E"
       ]
     }
   },
@@ -68,7 +72,8 @@
       "namespace": "android_app",
       "package_name": "com.marvelcorp.triphub",
       "sha256_cert_fingerprints": [
-        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77",
+        "3B:F9:3C:04:3E:B8:03:F4:3E:FC:3B:B1:D9:6C:7D:2A:9C:9E:FD:E8:AE:0E:B9:93:57:80:DA:21:1E:A7:E8:62"
       ]
     }
   },
@@ -80,7 +85,8 @@
       "namespace": "android_app",
       "package_name": "com.marvelcorp.cruisehub",
       "sha256_cert_fingerprints": [
-        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77",
+        "0D:A4:7C:34:78:6C:65:5E:00:C9:EA:72:D4:96:FD:C6:04:CA:55:8A:3D:89:1C:D8:05:A3:D2:AB:57:D8:11:AE"
       ]
     }
   }
