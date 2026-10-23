@@ -11,5 +11,77 @@
         "16:C6:61:5E:06:51:51:01:96:BA:0C:4D:1E:51:91:44:CB:A4:67:8B:15:E5:28:E8:21:1D:E0:D4:C6:A4:61:A6"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.marvelcorp.moneyhub",
+      "sha256_cert_fingerprints": [
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.marvelcorp.autohub",
+      "sha256_cert_fingerprints": [
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.marvelcorp.homehub",
+      "sha256_cert_fingerprints": [
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.marvelcorp.healthhub",
+      "sha256_cert_fingerprints": [
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.marvelcorp.triphub",
+      "sha256_cert_fingerprints": [
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.marvelcorp.cruisehub",
+      "sha256_cert_fingerprints": [
+        "65:07:8E:78:FE:0E:41:B6:B9:2C:A0:82:67:38:62:87:AE:75:6F:D6:F8:92:44:80:09:1A:E7:19:1E:79:7A:77"
+      ]
+    }
   }
 ]
